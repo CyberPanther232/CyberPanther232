@@ -38,7 +38,7 @@ You'll find repositories here covering:
 
 I'm always open to discussing new ideas, collaborating on open-source security projects, or sharing insights.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/hunter-kinney](https://www.linkedin.com/in/hunter-kinney/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-kinney/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:summit.betel3421@eagereverest.com)
 [![Professional Portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.cyberpanthe-dev.space.com)
 [![TryHackMe](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/hunter-kinney)
