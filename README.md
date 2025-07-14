@@ -6,12 +6,7 @@ Welcome to my corner of the internet. I'm a dedicated **cybersecurity profession
 
 ### 🚀 What I Do
 
-My expertise spans a range of critical cybersecurity domains:
-
-* **Incident Response & Forensics:** Quickly identifying, containing, and eradicating threats, followed by in-depth analysis to prevent recurrence.
-* **Security Engineering:** Developing and implementing secure systems and applications from the ground up.
-* **Offensive Security (Ethical Hacking):** Understanding attacker methodologies to proactively identify vulnerabilities through penetration testing and red teaming.
-* **Compliance & Risk Management:** Navigating regulatory landscapes and assessing organizational risk to build robust security postures.
+I currently program as a hobby but I am looking to learn more by developing more tools and software. I am an expert at Python but I am open to learning and programming in other languages to expand my software engineering skills.
 ---
 
 ### 🌱 My Learning Path & Interests
