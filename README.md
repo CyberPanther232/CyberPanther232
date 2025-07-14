@@ -40,8 +40,8 @@ I'm always open to discussing new ideas, collaborating on open-source security p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hunter-kinney/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:summit.betel3421@eagereverest.com)
-[![Professional Portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.cyberpanthe-dev.space.com)
-[![TryHackMe](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/hunter-kinney)
+[![Professional Portfolio](https://img.shields.io/badge/My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_WEBSITE_URL)(https://www.cyberpanthe-dev.space.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME)(https://linkedin.com/hunter-kinney)
 <!---
 CyberPanther232/CyberPanther232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
