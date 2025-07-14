@@ -5,8 +5,8 @@ Welcome to my corner of the internet. I'm a dedicated **cybersecurity profession
 ---
 
 ### 🚀 What I Do
-
 I currently program as a hobby but I am looking to learn more by developing more tools and software. I am an expert at Python but I am open to learning and programming in other languages to expand my software engineering skills.
+
 ---
 
 ### 🌱 My Learning Path & Interests
