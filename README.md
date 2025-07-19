@@ -21,7 +21,7 @@ The cybersecurity landscape is ever-evolving, and so am I. I'm currently deepeni
 
 ### 💻 Projects & Contributions
 
-You'll find repositories here covering:
+You'll find repositories or future projects here covering:
 
 * **Automated Security Scripts:** Tools to streamline common security tasks.
 * **Proof-of-Concept Exploits (for educational purposes):** Demonstrating vulnerabilities.
