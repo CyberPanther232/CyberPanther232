@@ -1,4 +1,4 @@
-# Greetings, Digital Defenders! 👋
+# Greetings, Cyber Warriors and Hackers! 👋
 
 Welcome to my corner of the internet. I'm a dedicated **cybersecurity professional** with a strong commitment to fortifying digital infrastructures and pioneering innovative security solutions. My journey in cybersecurity is driven by a profound interest in understanding complex threats and building resilient defenses.
 
