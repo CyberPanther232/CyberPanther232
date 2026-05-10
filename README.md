@@ -37,7 +37,10 @@ I'm always open to discussing new ideas, collaborating on open-source security p
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:summit.betel3421@eagereverest.com)
 [![Website](https://img.shields.io/badge/My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cyberpanther-dev.space)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/CyberPanther232)
-[![Hack The Box](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white))](https://profile.hackthebox.com/profile/019d0cb7-b1fb-71b8-9e52-537f07ca884a)
+[![Hack The Box](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019d0cb7-b1fb-71b8-9e52-537f07ca884a)
+![LetsDefend](https://img.shields.io/badge/LetsDefend-blue)(https://app.letsdefend.io/user/CyberSniper232)
+
+
 <!---
 CyberPanther232/CyberPanther232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
