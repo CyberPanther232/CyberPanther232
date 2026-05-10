@@ -38,7 +38,7 @@ I'm always open to discussing new ideas, collaborating on open-source security p
 [![Website](https://img.shields.io/badge/My_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cyberpanther-dev.space)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/CyberPanther232)
 [![Hack The Box](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019d0cb7-b1fb-71b8-9e52-537f07ca884a)
-[![LetsDefend](https://img.shields.io/badge/LetsDefend-blue?style=for-the-badge&logo=letsdefend)](https://app.letsdefend.io/user/CyberSniper232)
+[![LetsDefend]([https://img.shields.io/badge/LetsDefend-blue?style=for-the-badge&logo=letsdefend)](https://img.shields.io/badge/LetsDefend-LogoColor?logo=letsdefend&logoColor=White&style=flat)](https://app.letsdefend.io/user/CyberSniper232)
 
 
 <!---
